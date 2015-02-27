@@ -1,5 +1,8 @@
-gas-rest-angular
-================
+Fork of gas-rest-angular
+========================
+'''javascript
+//TODO: use angular-ui
+'''
 
 Example application on:
 - [AngularJS](https://angularjs.org/) on frontend
